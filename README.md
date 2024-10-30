@@ -27,6 +27,13 @@ The company aims to balance its electricity procurement costs with its environme
 2)Minimum Renewable Requirement:
    - 0.15×𝑄<sub>Grid</sub> + 0.05 × 𝑄<sub>Exchange</sub>Exchange + 150 ≥ 0.2×12000
 
+## Cost Function
+# The total cost of energy procurement is:
+Total Cost=Grid Cost × 𝑄<sub>Grid</sub> + Predicted Exchange Cost × 𝑄<sub>Exchange</sub>
+​
+# Carbon Emissions Calculation:
+Carbon Emissions=0.95 × (𝑄<sub>Grid</sub> - 0.15 × 𝑄<sub>Grid</sub>) + 0.95 × (𝑄<sub>Exchange</sub> - 0.05 × 𝑄<sub>Exchange</sub>)
+
 ## Dataset ##
 Source: Power Exchange Data 2010-2017 [https://drive.google.com/drive/folders/1ZDLNFQgCvC7C-bARppZrs2UiZ2EC1SL0]
 
