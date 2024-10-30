@@ -9,7 +9,9 @@ The company aims to balance its electricity procurement costs with its environme
 
 # Variables and Parameters
 Q_Grid: Quantity of electricity drawn from the State Electricity Grid (in MWh/day)
+
 Q_Exchange: Quantity of electricity drawn from the Power Exchange (in MWh/day)
+
 Captive Solar: Solar plant contribution, 150 MWh/day (100% renewable, 0 EUR cost)
 
 ### Dataset
