@@ -8,7 +8,7 @@ The company aims to balance its electricity procurement costs with its environme
 > To optimize procurement costs for 2018 while ensuring a minimum 20% renewable energy in the total energy mix and tracking carbon footprint.
 
 ### Dataset
-Source: Power Exchange Data 2010-2017 [https://drive.google.com/drive/folders/1ZDLNFQgCvC7C-bARppZrs2UiZ2EC1SL0].
+Source: Power Exchange Data 2010-2017 [https://drive.google.com/drive/folders/1ZDLNFQgCvC7C-bARppZrs2UiZ2EC1SL0]
 
 
 
