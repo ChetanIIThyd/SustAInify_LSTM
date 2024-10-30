@@ -37,6 +37,13 @@ Carbon Emissions = 0.95 × (𝑄<sub>Grid</sub> - 0.15 × 𝑄<sub>Grid</sub>) 
 ## Dataset
 Source: Power Exchange Data 2010-2017 [https://drive.google.com/drive/folders/1ZDLNFQgCvC7C-bARppZrs2UiZ2EC1SL0]
 
+## Requirements
+#### The project requires the following Python libraries:
+pandas
+numpy
+tensorflow/keras
+matplotlib
+
 
 
 
