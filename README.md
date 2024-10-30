@@ -23,6 +23,8 @@ The company aims to balance its electricity procurement costs with its environme
 ## Constraints ##
 1)Total Demand 
    - Q<sub>Grid</sub> + Q<sub>Exchange</sub> + Solar = 1200MWh
+2)Minimum Renewable Requirement:
+   - 0.15×𝑄<sub>Grid</sub> + 0.05 × 𝑄<sub>Exchange</sub>Exchange + 150 ≥ 0.2×12000
 
 ## Dataset ##
 Source: Power Exchange Data 2010-2017 [https://drive.google.com/drive/folders/1ZDLNFQgCvC7C-bARppZrs2UiZ2EC1SL0]
