@@ -55,6 +55,23 @@ The Price data is normalized using MinMaxScaler, scaling values between 0 and 1.
 ### Sequence Creation:
 sequence length (e.g., 30 days) is defined to predict the next day’s price.
 
+## Model Architecture
+#### Input Layer:
+Sequences of length 30days with a single feature (price).
+#### Hidden Layers
+````
+LSTM Layers:
+The first LSTM layer consists of 100 units and It also includes a Dropout layer (0.2) to reduce overfitting.
+A second LSTM layer with 56 units and another Dropout layer (0.2). 
+Dense Layers:
+A Dense layer with 20 units, followed by a final Dense layer with 1 unit for the output, predicting the next day’s price.
+````
+#### Compilation and Training:
+```
+The model is compiled using the Adam optimizer and Mean Squared Error (MSE) as the loss function.
+The model is trained over 30 epochs with a batch size of 32.
+```
+
 
 
 
