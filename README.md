@@ -8,9 +8,9 @@ The company aims to balance its electricity procurement costs with its environme
 > To optimize procurement costs for 2018 while ensuring a minimum 20% renewable energy in the total energy mix and tracking carbon footprint.
 
 # Variables and Parameters
---Q_Grid: Quantity of electricity drawn from the State Electricity Grid (in MWh/day). 
---Q_Exchange: Quantity of electricity drawn from the Power Exchange (in MWh/day).
---Captive Solar: Solar plant contribution, 150 MWh/day (100% renewable, 0 EUR cost).
+->Q_Grid: Quantity of electricity drawn from the State Electricity Grid (in MWh/day). 
+->Q_Exchange: Quantity of electricity drawn from the Power Exchange (in MWh/day).
+->Captive Solar: Solar plant contribution, 150 MWh/day (100% renewable, 0 EUR cost).
 # Costs
 -Grid Cost: 57.62 EUR/MWh 
 -Exchange Cost: This cost varies and is predicted by the ML model.
