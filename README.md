@@ -22,11 +22,11 @@ Exchange Cost: This cost varies and is predicted by the ML model.
 # Carbon Emissions
 1 MWh of coal energy produces 0.95 metric tons of CO₂.
 
-## Constraints
+## Constraints ##
 # 1)Total Demand 
    - Q<sub>Grid</sub> + Q<sub>Exchange</sub> + Solar = 1200MWh
 
-### Dataset
+## Dataset ##
 Source: Power Exchange Data 2010-2017 [https://drive.google.com/drive/folders/1ZDLNFQgCvC7C-bARppZrs2UiZ2EC1SL0]
 
 
