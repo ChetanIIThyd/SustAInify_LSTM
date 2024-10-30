@@ -13,12 +13,10 @@ Q_Grid: Quantity of electricity drawn from the State Electricity Grid (in MWh/da
 Q_Exchange: Quantity of electricity drawn from the Power Exchange (in MWh/day)
 
 Captive Solar: Solar plant contribution, 150 MWh/day (100% renewable, 0 EUR cost)
-
 # Costs
 Grid Cost: 57.62 EUR/MWh 
 
 Exchange Cost: This cost varies and is predicted by the ML model.
-
 # Carbon Emissions
 1 MWh of coal energy produces 0.95 metric tons of CO₂.
 
