@@ -46,6 +46,17 @@ tensorflow/keras
 matplotlib
 ```
 
+## Data Preprocessing
+
+### Handling Outliers:
+Interquartile Range (IQR) is calculated for the Price column to identify and remove outliers.
+### Data Scaling:
+The Price data is normalized using MinMaxScaler, scaling values between 0 and 1. 
+### Sequence Creation:
+sequence length (e.g., 30 days) is defined to predict the next day’s price.
+
+
+
 
 
 
