@@ -39,12 +39,12 @@ Source: Power Exchange Data 2010-2017 [https://drive.google.com/drive/folders/1Z
 
 ## Requirements
 The project requires the following Python libraries:
-'''
+```
 pandas
 numpy
 tensorflow/keras
 matplotlib
-'''
+```
 
 
 
