@@ -72,6 +72,9 @@ The model is compiled using the Adam optimizer and Mean Squared Error (MSE) as t
 The model is trained over 30 epochs with a batch size of 32.
 ```
 
+## Result 
+### Mean Squared Error (MSE): The model achieved an  Mean Squared Error of 0.015 
+
 
 
 
