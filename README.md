@@ -7,8 +7,15 @@ The company aims to balance its electricity procurement costs with its environme
 
 > To optimize procurement costs for 2018 while ensuring a minimum 20% renewable energy in the total energy mix and tracking carbon footprint.
 
+# Variables and Parameters
+Q_Grid: Quantity of electricity drawn from the State Electricity Grid (in MWh/day)
+Q_Exchange: Quantity of electricity drawn from the Power Exchange (in MWh/day)
+Captive Solar: Solar plant contribution, 150 MWh/day (100% renewable, 0 EUR cost)
+
 ### Dataset
 Source: Power Exchange Data 2010-2017 [https://drive.google.com/drive/folders/1ZDLNFQgCvC7C-bARppZrs2UiZ2EC1SL0]
+
+
 
 
 
